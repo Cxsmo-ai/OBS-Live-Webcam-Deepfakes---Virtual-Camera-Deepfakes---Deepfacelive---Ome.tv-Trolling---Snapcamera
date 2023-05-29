@@ -11,7 +11,7 @@ First Download https://github.com/Avasam/obs-virtual-cam then run the installer 
 
 Next Download Obs Vcam Changer https://github.com/LudoDash/Obs-VCam-Changer/releases/tag/V1.3.3-Kite_Edition Then Download the zip and extract it to a folder **(Credit to LudoDash for making this)**
 
-Next Download Still Working Snapcamera https://mega.nz/file/1JshGKSK#dDqpZ0R5Rt4wTuzTX_bFG90O69BSMuf2y2H1UjZCeyE then install and don't open
+Next Download Still Working Snapcamera Nvidia Only https://mega.nz/file/1JshGKSK#dDqpZ0R5Rt4wTuzTX_bFG90O69BSMuf2y2H1UjZCeyE then install and don't open
 
 Next Download the version of Deepfacelive https://mega.nz/folder/m10iELBK#Y0H6BflF9C4k_clYofC7yA for Nvidia Download the latest Nvidia Version and for Amd Download the latest Directx12 Version then when your done put it in an folder for easy access then  run it after you run it it should extract then done don't touch it yet **(Credit to iperov for making this)**
 
@@ -30,7 +30,7 @@ After PC Restart Open Obs Vcam Changer and set it to this exactly and after ever
 ![image](https://user-images.githubusercontent.com/74084396/215219261-a6bac90c-08d4-478e-8669-4e931f26da7c.png)
 ![image](https://user-images.githubusercontent.com/74084396/215219284-e0584b10-896f-4ad3-b020-ccbf496464a9.png)
 
-**How Make Snapcamera Work again**
+**How Make Snapcamera Work again Nvidia Only**
                                                  
 Follow this tutorial https://www.youtube.com/watch?v=eEMWwZRVF-I&t=11s                                                 
 
