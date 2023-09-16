@@ -60,4 +60,4 @@ https://drive.google.com/drive/folders/1ixWWO7WbtItGcYoibvkU-GN1iF5bKtl3
 ![image](https://user-images.githubusercontent.com/74084396/215272192-384ef405-655b-46c6-9f0b-bea99f71fd82.png)
 ![image](https://user-images.githubusercontent.com/74084396/215272195-74259696-7a08-48cf-a625-46ecab1642ec.png)
 
-**Will be redoing the obs preset and adding then to here with steps in a week or so**
+  **Will be redoing the obs preset and adding then to here with steps in a week or so**
