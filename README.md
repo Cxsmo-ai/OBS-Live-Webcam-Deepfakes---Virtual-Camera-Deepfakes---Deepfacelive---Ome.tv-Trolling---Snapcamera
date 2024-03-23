@@ -23,7 +23,7 @@ open start menu Type performance Choose Adjust the appearance and performance of
 
 ![image](https://user-images.githubusercontent.com/74084396/215216371-e142fd29-cad8-435f-a79a-d87cd96e81e3.png)
 
-After PC Restart Open Obs Vcam Changer and set it to this exactly and after every obs update you might have to redo this
+After PC Restart Open Obs Vcam Changer and set it to this exactly and after every obs update you might have to redo this or use this https://obsproject.com/forum/resources/camrename.1408/
 
 ![image](https://user-images.githubusercontent.com/74084396/215219229-cf0a625a-e42b-4057-92d4-992e0f9bcdf7.png)
 ![image](https://user-images.githubusercontent.com/74084396/215219245-26e95933-bf82-4b05-8fa6-2449cbe035b1.png)
