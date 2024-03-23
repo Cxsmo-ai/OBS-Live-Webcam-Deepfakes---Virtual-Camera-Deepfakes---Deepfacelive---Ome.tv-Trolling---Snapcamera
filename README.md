@@ -9,7 +9,7 @@ First, install the latest version of Obs Studio: https://obsproject.com/download
 
 First Download https://github.com/Avasam/obs-virtual-cam then run the installer and select 4 virtual cameras **(Credit to Avasam for making this)**
 
-Next Download Obs Vcam Changer https://github.com/LudoDash/Obs-VCam-Changer/releases/tag/V1.3.3-Kite_Edition Then Download the zip and extract it to a folder **(Credit to LudoDash for making this)**
+Next Download Obs Vcam Changer https://github.com/LudoDash/Obs-VCam-Changer/releases/tag/V1.3.3-Kite_Edition Then Download the zip and extract it to a folder **(Credit to LudoDash for making this)** or this https://obsproject.com/forum/resources/camrename.1408/
 
 Next Download Still Working Snapcamera Nvidia Only https://mega.nz/file/1JshGKSK#dDqpZ0R5Rt4wTuzTX_bFG90O69BSMuf2y2H1UjZCeyE then install and don't open
 
