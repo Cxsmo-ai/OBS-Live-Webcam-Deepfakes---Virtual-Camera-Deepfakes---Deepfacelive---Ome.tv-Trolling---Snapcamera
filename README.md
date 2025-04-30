@@ -30,6 +30,8 @@ After PC Restart Open Obs Vcam Changer and set it to this exactly and after ever
 ![image](https://user-images.githubusercontent.com/74084396/215219261-a6bac90c-08d4-478e-8669-4e931f26da7c.png)
 ![image](https://user-images.githubusercontent.com/74084396/215219284-e0584b10-896f-4ad3-b020-ccbf496464a9.png)
 
+For ome.tv disable physical webcam on device manager then set the webcam on browser to one of the changed vcams then go to ome.tv and then After vcam initializes then you can reanable your physcial webcam then re select it on deepfacelive ypu have to do the disable and enable each time if you have a physical camera
+
 **How Make Snapcamera Work again Nvidia Only**
                                                  
 Follow this tutorial https://www.youtube.com/watch?v=eEMWwZRVF-I&t=11s                                                 
@@ -59,5 +61,3 @@ https://drive.google.com/drive/folders/1ixWWO7WbtItGcYoibvkU-GN1iF5bKtl3
 ![image](https://user-images.githubusercontent.com/74084396/215272185-95178975-cc5e-49dd-9120-8d44e2e804d8.png)
 ![image](https://user-images.githubusercontent.com/74084396/215272192-384ef405-655b-46c6-9f0b-bea99f71fd82.png)
 ![image](https://user-images.githubusercontent.com/74084396/215272195-74259696-7a08-48cf-a625-46ecab1642ec.png)
-
-  **Will be redoing the obs preset and adding then to here with steps in a week or so**
